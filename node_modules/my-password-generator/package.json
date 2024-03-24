@@ -1,0 +1,25 @@
+{
+  "name": "my-password-generator",
+  "version": "0.1.0",
+  "description": "easy password generator that will give u hased password and its salt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hepiska/my-password-generator.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "hepiska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hepiska/my-password-generator/issues"
+  },
+  "homepage": "https://github.com/hepiska/my-password-generator#readme",
+  "dependencies": {
+    "short-id": "0.1.0-1"
+  }
+}

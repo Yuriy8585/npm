@@ -1,0 +1,17 @@
+{
+  "name": "install",
+  "version": "1.0.0",
+  "description": "library",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "libr"
+  ],
+  "author": "Krasnov",
+  "license": "ISC",
+  "dependencies": {
+    "my-password-generator": "^0.1.0"
+  }
+}
